@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cda631fe-e20f-41f6-b350-b089204c47d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bBzy09tbcRU0LG2uVGHR1sgNge" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../4 - Done/Exercicio Prog" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\User\Desktop\Scrum\1 - Back Log\Manipulação de String" />
+      <recent name="D:\Users\User\Desktop\Scrum\1 - Back Log\Tuplas" />
+      <recent name="D:\Users\User\Desktop\Scrum\1 - Back Log\Matemática e Numeros" />
+      <recent name="D:\Users\User\Desktop\Scrum\1 - Back Log\Listas" />
+      <recent name="D:\Users\User\Desktop\Scrum\1 - Back Log\Laços com For" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\User\Desktop\Scrum\1 - Back Log\Tuplas" />
+      <recent name="D:\Users\User\Desktop\Scrum\1 - Back Log\Imports Interessantes" />
+      <recent name="D:\Users\User\Desktop\Scrum\1 - Back Log\Listas" />
+      <recent name="D:\Users\User\Desktop\Scrum\1 - Back Log\Dicionario" />
+      <recent name="D:\Users\User\Desktop\Scrum\1 - Back Log\Matemática e Numeros" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Tuplas Ordem Crescente + Posição= sorted Ordem Alfabética e index">
+    <configuration name="Embaralhar Itens em uma Lista = random.shuffle(lista)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1 - Back Log" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Embaralhar Itens em uma Lista = random.shuffle(lista).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Item Sortido de uma Lista = random.choice(lista)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1 - Back Log" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Item Sortido de uma Lista = random.choice(lista).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lista Invertida usando Inset= insert(0, input) " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1 - Back Log" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Listas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Users\User\Desktop\Scrum\1 - Back Log\Listas\Lista Invertida usando Inset= insert(0, input) .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tabuada = for i in range(0, 10)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1 - Back Log" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tabuada = for i in range(0, 10).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tuplas Ordem Crescente + Posição= sorted Ordem Alfabética e index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1 - Back Log" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Users\User\Desktop\Scrum\1 - Back Log\Tuplas\Tuplas Ordem Crescente + Posição= sorted Ordem Alfabética e index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Tuplas Ordem Crescente + Posição= sorted Ordem Alfabética e index" />
+        <item itemvalue="Python.Tabuada = for i in range(0, 10)" />
+        <item itemvalue="Python.Lista Invertida usando Inset= insert(0, input) " />
+        <item itemvalue="Python.Embaralhar Itens em uma Lista = random.shuffle(lista)" />
+        <item itemvalue="Python.Item Sortido de uma Lista = random.choice(lista)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cda631fe-e20f-41f6-b350-b089204c47d2" name="Default Changelist" comment="" />
+      <created>1588120525090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588120525090</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="346" y="108" key="#Inspections" timestamp="1589349261440">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="346" y="108" key="#Inspections/0.0.1440.860@0.0.1440.860" timestamp="1589349261440" />
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1589385377957">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1589385377957" />
+    <state width="1419" height="276" key="GridCell.Tab.0.bottom" timestamp="1589350785938">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="276" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1589350785938" />
+    <state width="1419" height="276" key="GridCell.Tab.0.center" timestamp="1589350785938">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="276" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1589350785938" />
+    <state width="1419" height="276" key="GridCell.Tab.0.left" timestamp="1589350785938">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="276" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1589350785938" />
+    <state width="1419" height="276" key="GridCell.Tab.0.right" timestamp="1589350785938">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="276" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1589350785938" />
+    <state width="1419" height="276" key="GridCell.Tab.1.bottom" timestamp="1589350785938">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1589350785938" />
+    <state width="1419" height="276" key="GridCell.Tab.1.center" timestamp="1589350785938">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1589350785938" />
+    <state width="1419" height="276" key="GridCell.Tab.1.left" timestamp="1589350785938">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1589350785938" />
+    <state width="1419" height="276" key="GridCell.Tab.1.right" timestamp="1589350785938">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1589350785938" />
+    <state x="349" y="150" width="998" height="708" key="SettingsEditor" timestamp="1588120964587">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="349" y="150" width="998" height="708" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1588120964587" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1589346735644">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1589346735644" />
+  </component>
+</project>
